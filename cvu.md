@@ -41,5 +41,14 @@
 Cumplir las expectativas del cliente con un producto viable y de calidad, desarrollo de sistemas automatizados
 
 ---
+###Gustos y Aficiones###
+---
+***Música*** | Tocar el piano y la guitarra
+
+***Dibujar*** | Dibujos de caricatura y animacion
+
+***Cantar***  | Música pop y rock
+
+***Escribir*** | Historias variadas
 
 
